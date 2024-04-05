@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-05T12:53:56 CDT" name="LT_Sel_Suite" finished-at="2024-04-05T12:54:25 CDT" duration-ms="28677">
+    <groups>
+    </groups>
+    <test started-at="2024-04-05T12:53:56 CDT" name="LT_Sel_Test" finished-at="2024-04-05T12:54:25 CDT" duration-ms="28677">
+      <class name="LambdatestAssessment.LambdatestAssessment.Test_Scenario1">
+        <test-method is-config="true" signature="SetCapabilities()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario1@475c9c31]" started-at="2024-04-05T12:53:56 CDT" name="SetCapabilities" finished-at="2024-04-05T12:54:20 CDT" duration-ms="24056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetCapabilities -->
+        <test-method signature="Scenario1()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario1@475c9c31]" started-at="2024-04-05T12:54:20 CDT" name="Scenario1" finished-at="2024-04-05T12:54:25 CDT" duration-ms="4351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario1@475c9c31]" started-at="2024-04-05T12:54:25 CDT" name="teardown" finished-at="2024-04-05T12:54:25 CDT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- LambdatestAssessment.LambdatestAssessment.Test_Scenario1 -->
+      <class name="LambdatestAssessment.LambdatestAssessment.Test_Scenario2">
+        <test-method is-config="true" signature="SetCapabilities()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario2@5c86a017]" started-at="2024-04-05T12:53:56 CDT" name="SetCapabilities" finished-at="2024-04-05T12:54:02 CDT" duration-ms="5483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetCapabilities -->
+        <test-method signature="Scenario2()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario2@5c86a017]" started-at="2024-04-05T12:54:02 CDT" name="Scenario2" finished-at="2024-04-05T12:54:07 CDT" duration-ms="4901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="rearDown()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario2@5c86a017]" started-at="2024-04-05T12:54:07 CDT" name="rearDown" finished-at="2024-04-05T12:54:08 CDT" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rearDown -->
+      </class> <!-- LambdatestAssessment.LambdatestAssessment.Test_Scenario2 -->
+      <class name="LambdatestAssessment.LambdatestAssessment.Test_Scenario3">
+        <test-method is-config="true" signature="SetCapabilities()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario3@57bc27f5]" started-at="2024-04-05T12:53:56 CDT" name="SetCapabilities" finished-at="2024-04-05T12:54:00 CDT" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetCapabilities -->
+        <test-method signature="scenario3()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario3@57bc27f5]" started-at="2024-04-05T12:54:00 CDT" name="scenario3" finished-at="2024-04-05T12:54:10 CDT" duration-ms="9394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LambdatestAssessment.LambdatestAssessment.Test_Scenario3@57bc27f5]" started-at="2024-04-05T12:54:10 CDT" name="tearDown" finished-at="2024-04-05T12:54:10 CDT" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LambdatestAssessment.LambdatestAssessment.Test_Scenario3 -->
+    </test> <!-- LT_Sel_Test -->
+  </suite> <!-- LT_Sel_Suite -->
+</testng-results>
