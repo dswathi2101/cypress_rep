@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-16T14:47:24 CDT" name="TestngSuite" finished-at="2024-05-16T14:48:01 CDT" duration-ms="37368">
+    <groups>
+    </groups>
+    <test started-at="2024-05-16T14:47:24 CDT" name="TestngTest" finished-at="2024-05-16T14:48:01 CDT" duration-ms="37368">
+      <class name="TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario2">
+        <test-method is-config="true" signature="SetCapabilities(java.lang.String)[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario2@7bba5817]" started-at="2024-05-16T14:47:24 CDT" name="SetCapabilities" finished-at="2024-05-16T14:47:54 CDT" duration-ms="30255" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetCapabilities -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario2@7bba5817]" started-at="2024-05-16T14:47:54 CDT" name="setup" finished-at="2024-05-16T14:47:56 CDT" duration-ms="1783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestScenario2()[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario2@7bba5817]" started-at="2024-05-16T14:47:56 CDT" name="TestScenario2" finished-at="2024-05-16T14:48:00 CDT" duration-ms="4356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario2@7bba5817]" started-at="2024-05-16T14:48:00 CDT" name="teardown" finished-at="2024-05-16T14:48:01 CDT" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario2 -->
+      <class name="TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario3">
+        <test-method is-config="true" signature="SetCapabilities(java.lang.String)[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario3@742ff096]" started-at="2024-05-16T14:47:24 CDT" name="SetCapabilities" finished-at="2024-05-16T14:47:32 CDT" duration-ms="7978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetCapabilities -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario3@742ff096]" started-at="2024-05-16T14:47:32 CDT" name="setup" finished-at="2024-05-16T14:47:35 CDT" duration-ms="3433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestScenario3()[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario3@742ff096]" started-at="2024-05-16T14:47:35 CDT" name="TestScenario3" finished-at="2024-05-16T14:47:38 CDT" duration-ms="2888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScenario3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario3@742ff096]" started-at="2024-05-16T14:47:38 CDT" name="teardown" finished-at="2024-05-16T14:47:39 CDT" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario3 -->
+      <class name="TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario1">
+        <test-method is-config="true" signature="SetCapabilities(java.lang.String)[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario1@3e27aa33]" started-at="2024-05-16T14:47:24 CDT" name="SetCapabilities" finished-at="2024-05-16T14:47:45 CDT" duration-ms="20944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetCapabilities -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario1@3e27aa33]" started-at="2024-05-16T14:47:45 CDT" name="setup" finished-at="2024-05-16T14:47:47 CDT" duration-ms="2445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scenario1()[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario1@3e27aa33]" started-at="2024-05-16T14:47:47 CDT" name="Scenario1" finished-at="2024-05-16T14:47:48 CDT" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario1@3e27aa33]" started-at="2024-05-16T14:47:48 CDT" name="teardown" finished-at="2024-05-16T14:47:48 CDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TESTNGASSESSMENT_LT.TESTNGASSESSMENT_LT.TestScenario1 -->
+    </test> <!-- TestngTest -->
+  </suite> <!-- TestngSuite -->
+</testng-results>
